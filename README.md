@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goodnesssamuel-tech" alt="goodnesssamuel-tech" /></a> </p>
 
 
-[Goodness Samuel](http://linkedin.com/in/goodness-amarachi-samuel-3678031a4) a data analyst who loves bringing data to life. Whether I’m writing SQL queries, cleaning messy files in Excel and Power Query, crafting powerful DAX formulas, or building dynamic dashboards in Power BI, I’m driven by one thing — turning data into smart decisions. I enjoy digging deep, uncovering trends, and presenting insights in a way that excites and empowers teams to take action.
+[Goodness Samuel](http://linkedin.com/in/goodness-amarachi-samuel-3678031a4) a data analyst who loves bringing data to life. Whether I’m writing SQL queries, cleaning messy files in Excel and Power Query, crafting powerful DAX formulas, or building dynamic dashboards in Power BI, I’m driven by one thing, turning data into smart decisions. I enjoy digging deep, uncovering trends, and presenting insights in a way that excites and empowers teams to take action.
 
 
 - 🔭 I’m currently working on [a Store Dashboard]((https://github.com/goodnesssamuel-tech/Product-Market-Data-Analysis/blob/main/Screenshot%202025-07-15%20121729.png))
